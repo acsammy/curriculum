@@ -1,0 +1,37 @@
+en:
+  title: Samuel Carvalho's Web CV
+  profile:
+    name: Samuel
+    midlle_name: Alves de
+    lastname: Carvalho
+    social_name: Samuel Carvalho
+    nickname: acsammy
+    404: The page you were looking for doesn't exist (404)
+    hi: Hi
+    my_name_is: My name is
+    i_am: I am
+    about_me: About Me
+    phone: PHONE
+    job:
+      jobs: Job
+      fullstack: Developer & Fullstack
+    years_xp: 4 years of coding experience
+    experience: EXPERIENCE
+    address: ADDRESS
+    street: Santos Dumont Street, Fama-MG
+    email: EMAIL
+    skills: My Skills
+    technical: Technical Skills
+    hobbies:
+      my_hobbies: My Hobbies
+      coding: Coding
+      research: Research
+      photography: Photography
+      traveling: Travelling
+      music: Music
+      gaming: Gaming
+    projects: My Projects
+    work_experiences: Work Experiences
+    contacts: Contact
+    thanks: Thanks for visiting.
+    phone_number: +55(35) 9 8889-6307

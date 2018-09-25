@@ -1,0 +1,62 @@
+<!-- About section -->
+<div class="about" id="about">
+  <div class="container">
+    <h3 class="text-center"><%= t "profile.about_me" %></h3>
+<div class="row">
+
+    <div class="col-md-5 about_left">
+      <ul class="address">
+        <li>
+          <ul class="agileits-address-text ">
+            <li><b><%= t "profile.my_name_is" %></b></li>
+            <li><%= t "profile.social_name" %></li>
+          </ul>
+        </li>
+        <li>
+          <ul class="agileits-address-text">
+            <li><b><%= t "profile.phone" %></b></li>
+            <li><%= t "profile.phone_number" %></li>
+          </ul>
+        </li>
+        <li>
+          <ul class="agileits-address-text">
+            <li><b><%= t "profile.job.jobs" %></b></li>
+            <li><%= t "profile.job.fullstack" %></li>
+          </ul>
+        </li>
+        <li>
+          <ul class="agileits-address-text">
+            <li><b><%= t "profile.experience" %></b></li>
+            <li>&nbsp; &nbsp; &nbsp;  +4 Years</li>
+          </ul>
+        </li>
+        <li>
+          <ul class="agileits-address-text">
+            <li><b><%= t "profile.address" %> </b></li>
+            <li>&nbsp;<%= t "profile.street" %></li>
+          </ul>
+        </li>
+        <li>
+          <ul class="agileits-address-text">
+            <li><b><%= t "profile.email" %></b></li>
+            <li><a href="mailto:example@mail.com"> info@example.com</a></li>
+          </ul>
+        </li>
+      </ul>
+      <div class="w3-socials about-social">
+      <%= render "social_medias" %>
+      </div>
+    </div>
+    <div class="col-md-7 about_right">
+      <h3><%= t "profile.hi" %> <%= t "profile.i_am" %> <%= t "profile.social_name" %></h3>
+      <h4><%= t "profile.job.fullstack" %> + <%= t "profile.years_xp" %></h4>
+      <p>
+        <%= LeroleroGenerator.paragraph(2) %>
+      </p>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+
+  </div>
+</div>
+<!-- //About section -->

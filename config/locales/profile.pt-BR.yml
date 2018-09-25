@@ -1,0 +1,37 @@
+pt-BR:
+  profile:
+    title: Web CV de Samuel Carvalho
+    name: Samuel
+    midlle_name: Alves de
+    lastname: Carvalho
+    social_name: Samuel Carvalho
+    nickname: acsammy
+    404: A página que você procura não existe (404)
+    hi: Oi
+    my_name_is: Nome
+    i_am: Sou
+    about_me: Sobre Mim
+    phone: Telefone
+    job:
+      jobs: Cargo
+      fullstack: Desenvolvedor & Fullstack
+    years_xp: 4 anos de experiência em codificação
+    experience: EXPERIÊNCIA
+    address: ENDEREÇO
+    street: Rua Santos Dumont, Fama-MG
+    email: EMAIL
+    skills: Minhas Habilidades
+    technical: Habilidades Técnicas
+    hobbies:
+      my_hobbies: Meus Hobbies
+      coding: Codificar
+      research: Pesquisar
+      photography: Fotografar
+      traveling: Viajar
+      music: Escutar música
+      gamepad: Jogar
+    projects: Meus Projetos
+    work_experiences: Experiência Profissional
+    contacts: Contato
+    thanks: Obrigado pela visita.
+    phone_number: +55(35) 9 8889-6307
